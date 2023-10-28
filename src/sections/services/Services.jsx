@@ -4,7 +4,7 @@ import Card from '../../components/Card'
 
 const Services = () => {
   return (
-    <section id="services" data-aos="fade-up">
+    <section id="services">
       <h2>My Services</h2>
       <p>I give you the best in all the services below</p>
       <div className="container services__container" data-aos="fade-up">
